@@ -1,0 +1,5 @@
+background
+fire
+smoke
+tree
+people
